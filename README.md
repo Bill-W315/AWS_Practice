@@ -2,7 +2,7 @@
 
 AWS Deployment and File uplaod practice.
 
-![Alt text]()
+![Alt text](https://github.com/Bill-W315/AWS_Practice/blob/main/system.png)
 
 Implemented functionality:
 1. API authentication using JWT.
