@@ -1,0 +1,17 @@
+com\example\journey\AuthenticationIT.class
+com\example\journey\CustomerIT$3.class
+com\example\journey\CustomerIT$4.class
+com\example\customer\CustomerJDBCDataAccessServiceTest.class
+com\example\journey\CustomerIT$2.class
+com\example\s3\S3ServiceTest.class
+com\example\journey\AuthenticationIT$1.class
+com\example\customer\CustomerRowMapperTest.class
+com\example\customer\CustomerJPADataAccessServiceTest.class
+com\example\journey\CustomerIT.class
+com\example\customer\CustomerServiceTest.class
+com\example\TestcontainersTest.class
+com\example\journey\CustomerIT$1.class
+com\example\TestConfig.class
+com\example\customer\CustomerRepositoryTest.class
+com\example\journey\CustomerIT$5.class
+com\example\AbstractTestcontainers.class
