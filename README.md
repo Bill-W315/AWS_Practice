@@ -9,6 +9,3 @@ Implemented functionality:
 2. Picture upload and storage in an AWS S3 bucket.
 3. User data storage with AWS RDS (PostgreSQL).    
 
-Live demo URL: http://54.251.68.63/
-Email: bill@gmail.com
-Password: password
